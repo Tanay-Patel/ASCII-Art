@@ -1,3 +1,6 @@
+# Desc: This script creates ascii art out of typical image files.
+# Coded by: Tanay Patel
+
 from PIL import Image
 
 # Getting image dimensions 
