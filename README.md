@@ -10,16 +10,16 @@ People have made some really impressive ASCII art and I would love to be able to
 <br />
 
 ## Example of Other People's ASCII Art
-<img src="Images/BunnyArt.png" alt="Bunny" height="200"/>
-<img src="Images/BirdArt.png" alt="Bird" height="200"/>
+<img src="ReadMeImages/BunnyArt.png" alt="Bunny" height="200"/>
+<img src="ReadMeImages/BirdArt.png" alt="Bird" height="200"/>
 
 ## Example of ASCII Art via my script
 
 Before
 
-<img src="Images/WaveOriginal.png" alt="WaveOG"/>
+<img src="ReadMeImages/WaveOriginal.png" alt="WaveOG"/>
 
 After
 
-<img src="Images/WaveArt.png" alt="WaveArt"/>
+<img src="ReadMeImages/WaveArt.png" alt="WaveArt"/>
 
